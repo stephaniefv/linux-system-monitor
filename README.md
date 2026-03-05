@@ -29,6 +29,4 @@ cd linux-system-monitor
 
 python main.py
 
-## Autor
-
-Stephanie Ferreira 
+<img width="578" height="384" alt="Captura de tela 2026-03-05 170538" src="https://github.com/user-attachments/assets/62e0284c-e13d-4025-ac36-1a1f2d4ae2cf" />
